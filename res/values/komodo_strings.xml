@@ -19,4 +19,7 @@
     <!-- Swipe to delete -->
     <string name="swipe_right_deletes_conversation_text">Swipe right deletes conversation</string>
 
+     <!-- Show emoticons -->
+    <string name="show_emoticons_pref_title">Emoticons access</string>
+    <string name="show_emoticons_pref_summary">Show the emoticons key on the keyboard</string>
 </resources>
